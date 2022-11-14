@@ -1,0 +1,18 @@
+{
+  "developerAbbreviation": "",
+  "protocolName": "lido",
+  "protocolAbbreviation": "",
+  "gatherMode": "any",
+  "bots": [
+    {
+      "botType": "governance",
+      "name": "",
+      "contracts": {
+        "protocol_name": {
+          "address": "0x2e59A20f205bB85a89C53f1936454680651E618e",
+          "abiFile": "protocol.json"
+        }
+      }
+    }
+  ]
+}
